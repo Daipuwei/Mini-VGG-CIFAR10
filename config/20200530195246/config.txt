@@ -1,0 +1,11 @@
+dataset_dir: /media/pt/Seagate Expansion Drive/dpw/Mini-VGG/data/cifar10
+checkpoints_dir: /media/pt/Seagate Expansion Drive/dpw/Mini-VGG/checkpoints/20200530195246
+logs_dir: /media/pt/Seagate Expansion Drive/dpw/Mini-VGG/logs/20200530195246
+result_dir: /media/pt/Seagate Expansion Drive/dpw/Mini-VGG/result/20200530195246
+config_dir: /media/pt/Seagate Expansion Drive/dpw/Mini-VGG/config/20200530195246
+input_image_shape: (32, 32, 3)
+pre_model_path: None
+bacth_size: 16
+init_learning_rate: 0.01
+epoch: 50
+batch_size: 128
